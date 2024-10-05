@@ -1,0 +1,8 @@
+def simpleArraySum(ar):
+    # Write your code here
+    sm = 0
+    for i in range(len(ar)):
+        sm += ar[i]
+    return sm
+
+   
